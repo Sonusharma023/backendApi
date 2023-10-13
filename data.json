@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "name": "sonu sharma",
+        "email": "sonuboy6666@gmail.com",
+        "address": {
+            "street": "144 block-A",
+            "city": "agra",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "9867453478",
+        "designation": "dehradun",
+        "company": {
+            "name": "Hello Travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 2,
+        "name": "damini sharma",
+        "email": "damini05@gmail.com",
+        "address": {
+            "street": "near by golden temple",
+            "city": "amritsar",
+            "state": "punjab",
+            "country": "india"
+        },
+        "phone": "1234567890",
+        "designation": "new delhi",
+        "company": {
+            "name": "intake media travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 3,
+        "name": "lucky singh",
+        "email": "lucky09@gmail.com",
+        "address": {
+            "street": "near by refinery ",
+            "city": "mathura",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "9678543245",
+        "designation": "ludhiana",
+        "company": {
+            "name": "growthclues travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 4,
+        "name": "uma modi",
+        "email": "modigirl03@gmail.com",
+        "address": {
+            "street": "world public school ",
+            "city": "hathras",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "9678543245",
+        "designation": "nainital",
+        "company": {
+            "name": "lovely travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 5,
+        "name": "piyush goyal",
+        "email": "goyalji08@gmail.com",
+        "address": {
+            "street": "134,block-d rajendranagar",
+            "city": "bharatpur",
+            "state": "rajeshthan",
+            "country": "india"
+        },
+        "phone": "1256438976",
+        "designation": "haridwar",
+        "company": {
+            "name": "MCLA travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 6,
+        "name": "ayushi",
+        "email": "arti07@gmail.com",
+        "address": {
+            "street": "sector-6 cetpainfotech",
+            "city": "noida",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "1256438976",
+        "designation": "jammu kashmir",
+        "company": {
+            "name": "raman factory travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 7,
+        "name": "vaishnavi",
+        "email": "vaishnavi04@gmail.com",
+        "address": {
+            "street": "sector-8 ",
+            "city": "agra",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "2364578901",
+        "designation": "jaipur",
+        "company": {
+            "name": "kalpana chawala travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 8,
+        "name": "neelam",
+        "email": "neelam09@gmail.com",
+        "address": {
+            "street": "near by asopa hospital ",
+            "city": " kk nagar ,agra",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "3462178940",
+        "designation": "gujrat",
+        "company": {
+            "name": "gujrat travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    },
+    {
+        "id": 9,
+        "name": "riya",
+        "email": "riya201709@gmail.com",
+        "address": {
+            "street": "near by pujpanjali hospital ",
+            "city": " rajamandi ,agra",
+            "state": "uttar presdesh",
+            "country": "india"
+        },
+        "phone": "1298347650",
+        "designation": "himacahl predesh",
+        "company": {
+            "name": "himachal travels",
+            "description": "Providing service of domestic flight booking @ lowest price guaranteed and also for railway 0 ticket booking. also offering international flight tickets. giving to ourcustomers since 1995.now going to start hajj and umrah very soon for our valuable customers it will  be also @ very affordable prices."
+        }
+    }
+]
